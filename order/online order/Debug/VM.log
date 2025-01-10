@@ -1,0 +1,31 @@
+﻿  CButton.cpp
+  CEdit.cpp
+  CLabel.cpp
+  CLogWin.cpp
+  CMyDb.cpp
+  CRegWin.cpp
+  CTool.cpp
+  CtrlBase.cpp
+  CWinBase.cpp
+D:\desktop\24081\git_code\order\online order\CWinBase.cpp(7,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\desktop\24081\git_code\order\online order\CWinBase.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\desktop\24081\git_code\order\online order\CWinBase.cpp(24,16): warning C4018: “<”: 有符号/无符号不匹配
+  doubleWin.cpp
+  main.cpp
+  menuWin.cpp
+  multiWin.cpp
+  mycartWin.cpp
+  recomWin.cpp
+  singleWin.cpp
+  viewWin.cpp
+  正在生成代码...
+D:\desktop\24081\git_code\order\online order\singleWin.cpp(123): warning C4715: “singleWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\recomWin.cpp(72): warning C4715: “recomWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\mycartWin.cpp(51): warning C4715: “mycartWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\multiWin.cpp(67): warning C4715: “multiWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\menuWin.cpp(68): warning C4715: “menuWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\doubleWin.cpp(76): warning C4715: “doubleWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\CTool.cpp(68): warning C4715: “CTool::getKey”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\CRegWin.cpp(88): warning C4715: “CRegWin::do_action”: 不是所有的控件路径都返回值
+D:\desktop\24081\git_code\order\online order\CLogWin.cpp(78): warning C4715: “CLogWin::do_action”: 不是所有的控件路径都返回值
+  VM.vcxproj -> D:\desktop\24081\git_code\order\online order\Debug\VM.exe
