@@ -3,14 +3,8 @@
 /* 1990年1月1日 是星期一 */
 
 //计算1到100的和
-int sumfunc()
-{
-    int sum = 0;
-    for (int i = 1; i <= 100; i++) {
-        sum += i;
-    }
-    printf("Sum of numbers from 1 to 100 is: %d\n", sum);
-}
+
+
 
 
 void main()
